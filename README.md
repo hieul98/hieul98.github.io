@@ -1,1 +1,0 @@
-This is my portfolio project for employment purposes. The portfolio will be able to be viewed in a website style via git hub. My projects will be linked inside of the portfolio and hosted on github as well. 
